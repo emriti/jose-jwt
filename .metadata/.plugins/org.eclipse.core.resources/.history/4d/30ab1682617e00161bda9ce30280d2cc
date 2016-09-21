@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<script
+	src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.js"></script>
+<script type="text/javascript" src="index.js"></script>
+</head>
+<body>
+	<!-- components match only elements -->
+	<div ng-controller="MainCtrl as ctrl">
+		<b>Hero</b><br>
+		<hero-detail hero="ctrl.hero"></hero-detail>
+	</div>
+</body>
+</html>

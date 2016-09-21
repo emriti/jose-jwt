@@ -1,0 +1,13 @@
+(function() {
+	var app = angular.module('lookupNim', []);
+	app.controller('lookupNimController', function() {
+		this.nim = "";
+		this.open = function() {
+			this.nim = "";
+		};
+	});
+	app.directive('lookupNim', function(){
+		return { templateUrl: "lookup-nim.html"};
+	})		
+			
+})();

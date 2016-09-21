@@ -1,0 +1,11 @@
+package authservice.services;
+
+import javax.ws.rs.Path;
+
+@Path("/AuthenticationService")
+public class AuthenticationService {
+
+	public Response post() {
+		
+	}
+}

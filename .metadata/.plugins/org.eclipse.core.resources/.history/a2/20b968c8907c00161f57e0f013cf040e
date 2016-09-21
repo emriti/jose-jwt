@@ -1,0 +1,6 @@
+package apiservices.auths;
+
+@NameBinding("")
+public @interface Secured {
+
+}

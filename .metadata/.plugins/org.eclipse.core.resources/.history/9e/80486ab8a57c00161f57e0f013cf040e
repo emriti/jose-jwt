@@ -1,0 +1,6 @@
+package apiservices.auths;
+
+//@NameBinding
+//@Retention(RetentionPolicy.RUNTIME)
+//@Priority(Priorities.AUTHORIZATION)
+public @interface Secured { }

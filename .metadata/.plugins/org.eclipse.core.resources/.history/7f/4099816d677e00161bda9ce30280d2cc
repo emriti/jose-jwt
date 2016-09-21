@@ -1,0 +1,6 @@
+(function() {
+	var app = angular.module('test', ['lookup-nim']);
+	app.controller('testController', function() {
+		this.npwp;
+	})
+})();

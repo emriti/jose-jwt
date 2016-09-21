@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<script
+	src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.js"></script>
+<script type="text/javascript" src="lookups/nim/lookup-nim.js"></script>
+</head>
+<body>
+
+</body>
+</html>

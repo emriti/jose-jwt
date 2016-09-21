@@ -1,0 +1,22 @@
+package authservice.services;
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+
+import authservices.entities.Credential;
+
+@Path("/AuthenticationService")
+public class AuthenticationService {
+
+	@POST
+	@Produces(MediaType.APPLICATION_JSON)
+	@Consumes(MediaType.APPLICATION_JSON)
+	public Response post(Credential credential) {
+		String result = "{\"username\":\"" + credential.getUsername() + "\", " + credential.getPassword();
+		return Response.ok().entity(result).build();
+	}
+}

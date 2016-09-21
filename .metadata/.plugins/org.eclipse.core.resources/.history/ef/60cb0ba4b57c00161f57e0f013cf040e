@@ -1,0 +1,23 @@
+package apiservices.auths;
+
+import javax.ws.rs.NotAuthorizedException;
+import javax.ws.rs.Priorities;
+import javax.ws.rs.container.PreMatching;
+import javax.ws.rs.core.HttpHeaders;
+import javax.ws.rs.ext.Provider;
+
+//@Provider
+//@Priority(Priorities.AUTHENTICATION)
+//@PreMatching
+public class AuthenticationFilter implements ContainerRequestFilter {
+
+	@Override
+	public ContainerRequest filter(ContainerRequest request) {
+		String headers = request.getHeaderValue(HttpHeaders.AUTHORIZATION);
+		if (headers == null || headers.equals("")) {
+			throw new NotAuthorizedException("Not authorized man");
+		}
+		return request;
+	}
+
+}

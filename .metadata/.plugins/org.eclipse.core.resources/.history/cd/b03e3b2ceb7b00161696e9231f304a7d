@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<script type="text/javascript" src="scripts/angular.js"></script>
+<script type="text/javascript" src="scripts/index.js"></script>
+</head>
+<body>
+	<div ng-app="index" ng-controller="indexController as i">
+		<table>
+			<tr>
+				<td>Username</td>
+				<td>:</td>
+				<td><input type="text" ng-model="i.username"></td>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td>:</td>
+				<td><input type="password" ng-model="i.password"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td><button ng-click="i.login();">Login</button>
+					<button ng-click="i.reset();">Reset</button></td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.wst.web.internal.deployables.static:AppClient" serverId="HTTP Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ApiService" serverId="Tomcat v8.0 Server at localhost"/>
+  <module moduleId="org.eclipse.wst.web.internal.deployables.static:WebClient" serverId="HTTP Preview at localhost"/>
+</modules>

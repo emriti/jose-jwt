@@ -1,0 +1,20 @@
+package apiservices.auths;
+
+import java.io.IOException;
+
+import javax.ws.rs.client.ClientRequestContext;
+import javax.ws.rs.client.ClientRequestFilter;
+import javax.ws.rs.core.HttpHeaders;
+import javax.ws.rs.ext.Provider;
+
+@Secured
+@Provider
+public class AuthenticationFilter implements ClientRequestFilter {
+
+	@Override
+	public void filter(ClientRequestContext request) throws IOException {
+		// TODO Auto-generated method stub
+		String header = request.getHeaderString(HttpHeaders.AUTHORIZATION);
+	}
+
+}

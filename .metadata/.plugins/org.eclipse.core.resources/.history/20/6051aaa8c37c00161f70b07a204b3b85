@@ -1,0 +1,20 @@
+package apiservice.confs;
+
+import org.glassfish.jersey.server.ResourceConfig;
+
+public class Configuration extends ResourceConfig {
+
+	/**
+	     * Register JAX-RS application components.
+	     */
+	    public MyApplication () {
+	        register(RequestContextFilter.class);
+	        register(JacksonFeature.class);
+	        register(CustomerResource.class);
+	        register(Initializer.class);
+	        register(JerseyResource.class);
+	        register(SpringSingletonResource.class);
+	        register(SpringRequestResource.class);
+	        register(CustomExceptionMapper.class);
+	    }
+}

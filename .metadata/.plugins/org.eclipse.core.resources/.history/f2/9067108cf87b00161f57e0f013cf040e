@@ -1,0 +1,33 @@
+(function() {
+	var app = angular.module('index', []);
+	app.controller('indexController', function($http) {
+
+		this.username = "";
+		this.password = "";
+		this.result;
+
+		this.login = function() {
+			this.reset();
+		};
+
+		this.reset = function() {
+			this.username = "";
+			this.password = "";
+			this.result = "";
+		};
+
+		this.get = function() {
+			var tmp = this;
+			$http({
+				method : "GET",
+				url : "http://localhost:8080/ApiService/ReconService"
+			}).success(function(data, status, headers, config) {
+				console.log(data);
+				tmp.result = data.test;
+			}).error(function(data) {
+				console.log(data);
+			});
+		};
+
+	})
+})();

@@ -1,0 +1,14 @@
+package apiservices.auths;
+
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+
+import javax.ws.rs.NameBinding;
+import javax.ws.rs.Priorities;
+
+import com.sun.jersey.core.util.Priority;
+
+@NameBinding
+@Retention(RetentionPolicy.RUNTIME)
+@Priority(Priorities.AUTHORIZATION)
+public @interface Secured { }

@@ -1,0 +1,13 @@
+package apiservices.auths;
+
+import com.sun.jersey.spi.container.ContainerRequest;
+import com.sun.jersey.spi.container.ContainerRequestFilter;
+
+public class AuthenticationFilter implements ContainerRequestFilter {
+
+	@Override
+	public ContainerRequest filter(ContainerRequest request) {
+		return null;
+	}
+
+}

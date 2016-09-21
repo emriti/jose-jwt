@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.sun.jersey.spi.container.ContainerResponseFilter"/>
+<fullyQualifiedTypeName name="javax.ws.rs.POST"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Consumes"/>
+<fullyQualifiedTypeName name="authservices.entities.Credential"/>
+<fullyQualifiedTypeName name="javax.ws.rs.FormParam"/>
+<fullyQualifiedTypeName name="org.apache.catalina.tribes.util.UUIDGenerator"/>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="javax.ws.rs.ext.Provider"/>
+<fullyQualifiedTypeName name="javax.annotation.Priority"/>
+<fullyQualifiedTypeName name="javax.ws.rs.client.ClientRequestFilter"/>
+<fullyQualifiedTypeName name="com.sun.jersey.spi.container.ContainerRequestFilter"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.HttpHeaders"/>
+<fullyQualifiedTypeName name="javax.ws.rs.NameBinding"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+<fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+<fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+<fullyQualifiedTypeName name="javax.ws.rs.NotAuthorizedException"/>
+<fullyQualifiedTypeName name="com.sun.jersey.core.util.Priority"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Priorities"/>
+<fullyQualifiedTypeName name="javax.ws.rs.container.PreMatching"/>
+<fullyQualifiedTypeName name="javax.ws.rs.container.ContainerRequestFilter"/>
+<fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+<fullyQualifiedTypeName name="org.glassfish.jersey.server.ResourceConfig"/>
+<fullyQualifiedTypeName name="apiservice.filters.CORSFilter"/>
+<fullyQualifiedTypeName name="apiservices.auths.AuthenticationFilter"/>
+<fullyQualifiedTypeName name="apiservices.auths.Secured"/>
+<fullyQualifiedTypeName name="authservice.filters.CORSFilter"/>
+<fullyQualifiedTypeName name="javax.ws.rs.container.ContainerResponseFilter"/>
+<fullyQualifiedTypeName name="org.glassfish.jersey.server.ContainerRequest"/>
+<fullyQualifiedTypeName name="org.glassfish.jersey.server.ContainerResponse"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,7 @@
+package apiservice.filters;
+
+import com.sun.jersey.spi.container.ContainerResponseFilter;
+
+public class CORSFilter implements ContainerResponseFilter {
+
+}

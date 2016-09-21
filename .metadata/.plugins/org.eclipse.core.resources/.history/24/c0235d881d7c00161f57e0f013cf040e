@@ -1,0 +1,5 @@
+package authservices.entities;
+
+public class Credential {
+
+}

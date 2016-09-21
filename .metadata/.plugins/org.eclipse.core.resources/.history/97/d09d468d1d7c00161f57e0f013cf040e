@@ -1,0 +1,6 @@
+package authservices.entities;
+
+public class Credential {
+	private String username;
+	private String password;
+}

@@ -1,0 +1,13 @@
+(function() {
+	
+	var npwpController = function() {
+		
+	}
+	
+	var app = angular.module('lookupNpwpApp', []);
+	app.component('lookupNpwp', {
+		templateUrl: "lookup-npwp.html",
+		controller: npwpController
+	});
+
+})();
