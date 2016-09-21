@@ -1,12 +1,12 @@
 package com.ecomindo.common.dto;
 
-import org.springframework.http.HttpStatus;
+import javax.ws.rs.core.Response.Status;
 
 public class FileResponse {
 	private String filename;
 	private byte[] byteFile;
 	private ErrorMessage errorMessage;
-	private HttpStatus responseStatus;
+	private Status responseStatus;
 
 	public String getFilename() {
 		return filename;
@@ -32,11 +32,11 @@ public class FileResponse {
 		this.errorMessage = errorMessage;
 	}
 
-	public HttpStatus getResponseStatus() {
+	public Status getResponseStatus() {
 		return responseStatus;
 	}
 
-	public void setResponseStatus(HttpStatus responseStatus) {
+	public void setResponseStatus(Status responseStatus) {
 		this.responseStatus = responseStatus;
 	}
 

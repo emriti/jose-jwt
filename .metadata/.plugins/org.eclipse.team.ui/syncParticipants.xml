@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <syncparticipants>
-<participant displayName="Git (ApiService)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1474483260065">
+<participant displayName="Git (Common)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1474485385052">
 <data forceFetch="false" root="false">
-<org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="ApiService" startupAction="none">
+<org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="Common" startupAction="none">
 <org.eclipse.team.ui.MODEL_PARTICIPANT_REFRESH_SCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
 <org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS modelProviderId="org.eclipse.core.resources.modelProvider">
 <mappings>
-<resources resourcePath="/ApiService" resourceType="4"/>
+<resources resourcePath="/Common" resourceType="4"/>
 </mappings>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS>
-<gitSynchronizeData container="C:/Users/Ecomindo/jose-jwt/ApiService" dstRev="refs/remotes/jose-jwt/master" inludeLocal="true" srcRev="HEAD"/>
+<gitSynchronizeData container="C:/Users/Ecomindo/jose-jwt/Common" dstRev="refs/remotes/jose-jwt/master" inludeLocal="true" srcRev="HEAD"/>
 </data>
 </participant>
 </syncparticipants>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<script type="text/javascript" src="scripts/angular.js"></script>
+<script type="text/javascript" src="scripts/reports.js"></script>
+</head>
+<body ng-app="Report" ng-controller="ReportController as vm">
+	<button ng-click="vm.search()">Search</button>
+	<br />
+	<!-- 
+	<iframe id="contentReport" allowtransparency="true"
+		style="background: #525659;" width="100%" height="600px"
+		src="{{vm.iframeReport}}" ng-show="vm.show"></iframe>
+		 -->
+	<iframe id="contentReport" allowtransparency="true"
+		style="background: #525659;" width="100%" height="600px"
+		src="{{vm.iframeReport | trustAsResource}}" ng-show="vm.show"></iframe>
+
+</body>
+</html>

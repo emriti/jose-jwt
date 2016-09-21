@@ -3107,3 +3107,377 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment 
 2016-09-17 18:29:14,375 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-09-17 18:29:14,385 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
 2016-09-22 02:15:21,360 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.co.astralife.app.dplk:dplk-common:1.0.0 @ C:\Users\Ecomindo\DPLK\Common\pom.xml.
+2016-09-22 02:19:37,884 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-22 02:19:38,388 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.co.astralife.app.dplk:dplk-common:1.0.0 @ C:\Users\Ecomindo\jose-jwt\Common\pom.xml.
+2016-09-22 02:19:38,624 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Common/src
+2016-09-22 02:19:38,625 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Common/src/test/java because it overlaps with /Common/src
+2016-09-22 02:19:38,882 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-09-22 02:19:44,842 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:19:44,850 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 02:19:44,852 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:19:44,859 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 02:19:47,310 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:19:47,331 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\main\resources
+2016-09-22 02:19:47,333 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:19:47,340 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
+2016-09-22 02:19:48,569 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:19:48,577 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 02:19:48,583 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:19:48,591 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 02:20:33,337 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:20:33,357 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 02:20:33,370 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:20:33,437 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 02:20:43,203 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:20:43,217 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 02:20:43,226 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:20:43,239 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 02:24:06,216 [Worker-47] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-22 02:24:08,543 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ApiService:ApiService:0.0.1-SNAPSHOT @ C:\Users\Ecomindo\jose-jwt\ApiService\pom.xml.
+2016-09-22 02:24:09,272 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiService/src
+2016-09-22 02:24:09,277 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ApiService/src/test/java because it overlaps with /ApiService/src
+2016-09-22 02:24:09,860 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 02:24:09,866 [Worker-47] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-09-22 02:24:13,066 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:24:13,090 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 02:24:13,099 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:24:13,115 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 02:24:13,121 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 02:24:13,123 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 02:24:13,130 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2016-09-22 02:24:13,149 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:25:11,779 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-22 02:25:12,309 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.co.astralife.app.dplk:dplk-common:1.0.0 @ C:\Users\Ecomindo\jose-jwt\Common\pom.xml.
+2016-09-22 02:25:12,689 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Common/src
+2016-09-22 02:25:12,689 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Common/src/test/java because it overlaps with /Common/src
+2016-09-22 02:25:12,887 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-09-22 02:25:20,310 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:25:20,318 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 02:25:20,321 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:25:20,331 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 02:25:45,004 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:25:45,023 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 02:25:45,044 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:25:45,063 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 02:26:11,995 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:26:12,002 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 02:26:12,003 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:26:12,013 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 02:26:16,030 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:26:16,038 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 02:26:16,043 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:26:16,051 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 02:37:47,618 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:37:47,638 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 02:37:47,640 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:37:47,658 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 02:45:30,548 [Worker-53] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-22 02:45:30,975 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ApiService:ApiService:0.0.1-SNAPSHOT @ C:\Users\Ecomindo\jose-jwt\ApiService\pom.xml.
+2016-09-22 02:45:32,244 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.0/commons-beanutils-1.9.0.pom
+2016-09-22 02:45:32,646 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.0/commons-beanutils-1.9.0.pom
+2016-09-22 02:45:32,878 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2016-09-22 02:45:33,188 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2016-09-22 02:45:33,415 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom
+2016-09-22 02:45:33,652 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom
+2016-09-22 02:45:33,887 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2016-09-22 02:45:34,129 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2016-09-22 02:45:34,401 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2016-09-22 02:45:35,664 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2016-09-22 02:45:36,167 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.pom
+2016-09-22 02:45:36,432 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.pom
+2016-09-22 02:45:36,680 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.0.6.RELEASE/spring-parent-3.0.6.RELEASE.pom
+2016-09-22 02:45:36,899 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.0.6.RELEASE/spring-parent-3.0.6.RELEASE.pom
+2016-09-22 02:45:37,151 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.6.RELEASE/spring-aop-3.0.6.RELEASE.pom
+2016-09-22 02:45:37,370 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.6.RELEASE/spring-aop-3.0.6.RELEASE.pom
+2016-09-22 02:45:38,031 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.pom
+2016-09-22 02:45:38,253 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.pom
+2016-09-22 02:45:38,474 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.pom
+2016-09-22 02:45:38,691 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.pom
+2016-09-22 02:45:38,912 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.pom
+2016-09-22 02:45:39,139 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.pom
+2016-09-22 02:45:39,385 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.6.RELEASE/spring-expression-3.0.6.RELEASE.pom
+2016-09-22 02:45:39,620 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.6.RELEASE/spring-expression-3.0.6.RELEASE.pom
+2016-09-22 02:45:39,834 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.4/jackson-core-2.1.4.pom
+2016-09-22 02:45:40,071 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.4/jackson-core-2.1.4.pom
+2016-09-22 02:45:40,295 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/4/oss-parent-4.pom
+2016-09-22 02:45:40,708 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/4/oss-parent-4.pom
+2016-09-22 02:45:40,933 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.1.4/jackson-databind-2.1.4.pom
+2016-09-22 02:45:41,143 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.1.4/jackson-databind-2.1.4.pom
+2016-09-22 02:45:41,386 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.1.4/jackson-annotations-2.1.4.pom
+2016-09-22 02:45:41,604 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.1.4/jackson-annotations-2.1.4.pom
+2016-09-22 02:45:41,869 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.0/commons-beanutils-1.9.0.jar
+2016-09-22 02:45:43,836 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.0/commons-beanutils-1.9.0.jar
+2016-09-22 02:45:44,043 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar
+2016-09-22 02:45:48,408 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar
+2016-09-22 02:45:48,817 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2016-09-22 02:45:49,427 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2016-09-22 02:45:49,638 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.jar
+2016-09-22 02:45:55,824 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.jar
+2016-09-22 02:45:56,027 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.6.RELEASE/spring-aop-3.0.6.RELEASE.jar
+2016-09-22 02:45:58,605 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.6.RELEASE/spring-aop-3.0.6.RELEASE.jar
+2016-09-22 02:45:58,823 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.jar
+2016-09-22 02:46:02,969 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.jar
+2016-09-22 02:46:03,174 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.jar
+2016-09-22 02:46:07,461 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.jar
+2016-09-22 02:46:07,665 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.6.RELEASE/spring-expression-3.0.6.RELEASE.jar
+2016-09-22 02:46:09,824 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.6.RELEASE/spring-expression-3.0.6.RELEASE.jar
+2016-09-22 02:46:10,028 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.jar
+2016-09-22 02:46:10,816 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.jar
+2016-09-22 02:46:11,018 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.4/jackson-core-2.1.4.jar
+2016-09-22 02:46:13,398 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.4/jackson-core-2.1.4.jar
+2016-09-22 02:46:13,609 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.1.4/jackson-databind-2.1.4.jar
+2016-09-22 02:46:22,646 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.1.4/jackson-databind-2.1.4.jar
+2016-09-22 02:46:23,086 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.1.4/jackson-annotations-2.1.4.jar
+2016-09-22 02:46:23,602 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.1.4/jackson-annotations-2.1.4.jar
+2016-09-22 02:46:27,795 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiService/src
+2016-09-22 02:46:27,801 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ApiService/src/test/java because it overlaps with /ApiService/src
+2016-09-22 02:46:28,575 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 02:46:28,586 [Worker-53] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 58 sec
+2016-09-22 02:53:43,115 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:53:43,133 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 02:53:43,189 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:53:43,202 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 02:53:43,202 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 02:53:43,208 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 02:53:43,213 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:54:13,374 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:54:13,378 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 02:54:13,384 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:54:13,389 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 02:57:40,815 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:57:40,830 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 02:57:40,838 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:57:40,847 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 02:57:45,894 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:57:45,900 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 02:57:45,905 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:57:45,914 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 02:57:54,283 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:57:54,288 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 02:57:54,293 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 02:57:54,301 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:37:27,087 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 03:37:27,099 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2016-09-22 03:37:27,288 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:37:27,303 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\main\resources
+2016-09-22 03:37:27,309 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:37:27,316 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
+2016-09-22 03:37:27,324 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2016-09-22 03:37:27,324 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2016-09-22 03:37:27,340 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:37:28,273 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:37:28,282 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 03:37:28,286 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:37:28,297 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 03:37:28,504 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:37:28,520 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:37:28,522 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:37:28,544 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:37:28,545 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 03:37:28,564 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 03:37:28,588 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:43:05,614 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:43:05,619 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 03:43:05,620 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:43:05,627 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 03:43:08,951 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:43:08,961 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 03:43:08,968 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:43:08,976 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 03:43:09,074 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:43:09,086 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:43:09,095 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:43:09,103 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:45:28,161 [Worker-73] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-22 03:45:32,233 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ApiService:ApiService:0.0.1-SNAPSHOT @ C:\Users\Ecomindo\jose-jwt\ApiService\pom.xml.
+2016-09-22 03:45:35,903 [Worker-73] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiService/src
+2016-09-22 03:45:35,909 [Worker-73] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ApiService/src/test/java because it overlaps with /ApiService/src
+2016-09-22 03:45:36,424 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 03:45:36,430 [Worker-73] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2016-09-22 03:47:10,855 [Worker-75] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-22 03:47:11,288 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ApiService:ApiService:0.0.1-SNAPSHOT @ C:\Users\Ecomindo\jose-jwt\ApiService\pom.xml.
+2016-09-22 03:47:11,504 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\Users\Ecomindo\jose-jwt\AuthService\pom.xml.
+2016-09-22 03:47:12,857 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.co.astralife.app.dplk:dplk-common:1.0.0 @ C:\Users\Ecomindo\jose-jwt\Common\pom.xml.
+2016-09-22 03:47:16,168 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiService/src
+2016-09-22 03:47:16,173 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ApiService/src/test/java because it overlaps with /ApiService/src
+2016-09-22 03:47:16,738 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src
+2016-09-22 03:47:16,739 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /AuthService/src/test/java because it overlaps with /AuthService/src
+2016-09-22 03:47:17,078 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Common/src
+2016-09-22 03:47:17,079 [Worker-75] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Common/src/test/java because it overlaps with /Common/src
+2016-09-22 03:47:17,602 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 03:47:17,631 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2016-09-22 03:47:17,697 [Worker-75] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-09-22 03:47:18,285 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:18,298 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 03:47:18,300 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:18,312 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 03:47:19,161 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:19,168 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\main\resources
+2016-09-22 03:47:19,169 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:19,182 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
+2016-09-22 03:47:19,187 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2016-09-22 03:47:19,191 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2016-09-22 03:47:19,197 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:19,559 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:19,567 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:47:19,568 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:19,576 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:47:19,584 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 03:47:19,584 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 03:47:19,588 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:21,893 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 03:47:21,905 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2016-09-22 03:47:22,082 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:22,090 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\main\resources
+2016-09-22 03:47:22,091 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:22,105 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
+2016-09-22 03:47:22,105 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2016-09-22 03:47:22,110 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2016-09-22 03:47:22,118 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:22,412 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:22,443 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 03:47:22,444 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:22,453 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 03:47:22,595 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:22,603 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:47:22,604 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:47:22,612 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:47:22,612 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 03:47:22,612 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 03:47:22,619 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:02,992 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:03,005 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 03:48:03,005 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:03,016 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 03:48:18,133 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:18,144 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 03:48:18,148 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:18,156 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 03:48:24,074 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 03:48:24,087 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2016-09-22 03:48:24,193 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:24,220 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\main\resources
+2016-09-22 03:48:24,221 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:24,234 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
+2016-09-22 03:48:24,236 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2016-09-22 03:48:24,243 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2016-09-22 03:48:24,251 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:24,640 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:24,649 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 03:48:24,652 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:24,671 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 03:48:24,778 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:24,783 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:48:24,784 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:48:24,791 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:48:24,796 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 03:48:24,796 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 03:48:24,800 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:53:30,521 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:53:30,530 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:53:30,530 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:53:30,535 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:54:53,945 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:54:53,958 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:54:53,959 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:54:53,968 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:55:00,220 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 03:55:00,238 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2016-09-22 03:55:00,359 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:55:00,381 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\main\resources
+2016-09-22 03:55:00,382 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:55:00,397 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
+2016-09-22 03:55:00,397 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2016-09-22 03:55:00,397 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2016-09-22 03:55:00,405 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:55:00,716 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:55:00,723 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 03:55:00,725 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:55:00,734 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 03:55:00,850 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:55:00,873 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:55:00,876 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:55:00,886 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:55:00,886 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 03:55:00,886 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 03:55:00,893 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:56:43,220 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:56:43,229 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:56:43,230 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:56:43,239 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 03:59:10,930 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:59:10,939 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 03:59:10,945 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 03:59:10,954 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 04:00:49,147 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:00:49,156 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 04:00:49,160 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:00:49,169 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 04:36:12,487 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:36:12,499 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 04:36:12,505 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:36:12,515 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 04:37:28,891 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 04:37:28,913 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2016-09-22 04:37:29,216 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:37:29,236 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\main\resources
+2016-09-22 04:37:29,237 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:37:29,250 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
+2016-09-22 04:37:29,251 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2016-09-22 04:37:29,251 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2016-09-22 04:37:29,257 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:37:29,688 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:37:29,735 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 04:37:29,736 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:37:29,744 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 04:37:30,328 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:37:30,360 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 04:37:30,361 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:37:30,371 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 04:37:30,377 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 04:37:30,377 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 04:37:30,387 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:42:17,963 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:42:17,972 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 04:42:17,976 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:42:17,985 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 04:43:03,094 [Worker-89] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 04:43:03,110 [Worker-89] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2016-09-22 04:43:03,266 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:43:03,279 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\main\resources
+2016-09-22 04:43:03,280 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:43:03,288 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
+2016-09-22 04:43:03,288 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2016-09-22 04:43:03,288 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2016-09-22 04:43:03,330 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:43:03,757 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:43:03,770 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 04:43:03,771 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:43:03,797 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 04:43:04,134 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:43:04,139 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 04:43:04,140 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:43:04,145 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 04:43:04,150 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 04:43:04,150 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 04:43:04,157 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:53:34,510 [Worker-90] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ApiService
+2016-09-22 04:53:34,523 [Worker-90] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2016-09-22 04:53:34,870 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:53:34,885 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\main\resources
+2016-09-22 04:53:34,886 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:53:34,902 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\AuthService\src\test\resources
+2016-09-22 04:53:34,903 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2016-09-22 04:53:34,903 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2016-09-22 04:53:34,907 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:53:35,741 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:53:35,751 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\main\resources
+2016-09-22 04:53:35,753 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:53:35,761 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\Common\src\test\resources
+2016-09-22 04:53:36,155 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:53:36,162 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\main\resources
+2016-09-22 04:53:36,166 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-22 04:53:36,174 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ecomindo\jose-jwt\ApiService\src\test\resources
+2016-09-22 04:53:36,180 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ApiService
+2016-09-22 04:53:36,180 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ApiService
+2016-09-22 04:53:36,184 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
