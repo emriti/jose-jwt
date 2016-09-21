@@ -1,0 +1,63 @@
+package apiservice.services;
+
+import java.util.Map;
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.FormParam;
+import javax.ws.rs.POST;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+public class ReportSampleService {
+
+	@POST
+	@Produces(MediaType.APPLICATION_JSON)
+	@Consumes(MediaType.APPLICATION_JSON)
+	public ResponseEntity<FileResponse> show()
+			throws Exception {
+		FileResponse response = new FileResponse();
+		try {
+			//authRoleService.checkAuthorization(CurrentUser.getUser(), AuthAuthorityDTO.REPORT.toString());
+
+			// number from date
+			SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
+			String date_to_string = dateFormat.format(new Date());
+			String randomString = RandomStringUtils.randomAlphabetic(5);
+
+			String reportName = "Billing_Statement_" + randomString + date_to_string + ".html";
+			String jasperName = "/rptBillingStatement.jasper";
+
+			String groupType = MapUtil.getStringObject(filters, "groupType", true);
+			groupType = (groupType != null || groupType != "") ? groupType.toUpperCase() : groupType;
+
+			String groupNumber = MapUtil.getStringObject(filters, "groupNumber", true);
+			groupNumber = (groupNumber != null || groupNumber != "") ? groupNumber.toUpperCase() : groupNumber;
+
+			String billingPeriodMonth = MapUtil.getStringObject(filters, "billingPeriodMonth", true);
+			String billingPeriodYear = MapUtil.getStringObject(filters, "billingPeriodYear", true);
+
+			Integer billingPeriod = Integer.parseInt(billingPeriodYear + billingPeriodMonth);
+
+			String invoiceNumber = MapUtil.getStringObject(filters, "invoiceNumber", true);
+
+			String token = MapUtil.getStringObject(filters, "sessionId", true);
+			String login = sessionService.getUserBySession(token);
+			Integer userId = authUserService.getUserIdByLogin(login);
+			
+			byte[] fileReport = billingStatementService.doExport(reportName, jasperName, groupType, groupNumber,
+					billingPeriod, invoiceNumber, userId);
+
+			response.setFilename(reportName);
+			response.setByteFile(fileReport);
+			response.setResponseStatus(HttpStatus.OK);
+
+		} catch (Exception e) {
+			//response.setFilename(e.getMessage());
+			//response.setResponseStatus(HttpStatus.BAD_REQUEST);
+			throw new DAOException(e);
+		}
+
+		return new ResponseEntity<FileResponse>(response, HttpStatus.OK);
+	}
+	
+}
